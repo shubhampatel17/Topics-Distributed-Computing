@@ -16,6 +16,19 @@ This project explores the transformative impact of blockchain technologies in th
 6. **Future Outlook**: Predictions and potential future developments for blockchain in the automotive sector.
 
 ### Paper
+
+## Overview
+This repository contains a term paper on the application of blockchain technology in the automotive industry, focusing on cybersecurity and efficiency.
+
+## Authors
+- Shubham Patel
+- Rohan Borad
+
+## Key Topics
+- Blockchain integration in automotive
+- Cybersecurity enhancements
+- Supply chain management
+
 1. **Detailed Analysis of Blockchain Technology**: An in-depth look at the technical aspects of blockchain.
 2. **Security Enhancements through Blockchain**: Detailed examination of how blockchain enhances cybersecurity.
 3. **Industrial Applications of Blockchain**: Broader look at blockchain applications in various industrial sectors, with a focus on automotive.
